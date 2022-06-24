@@ -23,7 +23,6 @@ $ mkdir .env
 
 # Add the following 
 $ BEARER_TOKEN="AAAAAAAAAAAAAAAAAAAAAIHudwEAAAAAAwQZPhTRyLrywvdTVh3Lv%2BUUMpk%3DaNjjBAr7mfHggV1Nd1AjbhAj3NrzN5MtJEykHtwdHdJiLabV3h"
-
-PORT=8000
+$ PORT=8000
 
 ```
